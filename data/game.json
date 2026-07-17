@@ -1,0 +1,14 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "Enter the Gungeon",
+    "creator": "Jibbe",
+    "filler_item_name": "Ser. Junkan's favor",
+    "Death_link": true,
+    
+    "starting_items": [
+        {
+            "items": ["The Marine","The Pilot","The Hunter", "The Convict", "The Bullet", "The Robot", "The Paradox", "The Gunslinger"],
+            "random": 1
+        }
+    ]
+}

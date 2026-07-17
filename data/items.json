@@ -1,0 +1,135 @@
+[
+    {
+        "count":"1",
+        "name": "Prime Primer",
+        "category": ["The Bullet"],
+        "progression": true
+    },
+   {
+        "count":"1",
+        "name": "Arcane Gunpowder",
+        "category": ["The Bullet"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Planar Lead",
+        "category": ["The Bullet"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Obsidian Shell Casing",
+        "category": ["The Bullet"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Pilot",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Marine",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Hunter",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Convict",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Bullet",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Robot",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Paradox",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Gunslinger",
+        "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Gungeon Proper",
+        "category": ["Chambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Black Powder Mine",
+        "category": ["Chambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Hollow",
+        "category": ["Chambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Forge",
+        "category": ["Chambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Oubliette",
+        "category": ["Secretchambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Abbey",
+        "category": ["Secretchambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Rat's lair",
+        "category": ["Secretchambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key R&G dept.",
+        "category": ["Secretchambers"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Chamber Key Hell",
+        "category": ["Secretchambers"],
+        "progression": true
+    },
+    {
+        "count":"4",
+        "name": "Rat's note",
+        "category": ["Secretchambers"],
+        "progression": true
+    }
+
+]

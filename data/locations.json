@@ -1,0 +1,433 @@
+[
+    {
+        "name": "KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Oubliette Chest 1",
+        "region": "Oubliette",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Oubliette Chest 2",
+        "region": "Oubliette",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Old Crest",
+        "region": "Oubliette",
+        "category": [],
+        "requires": ""
+    },
+    {
+        "name": "Blobulord defeated",
+        "region": "Oubliette",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Abbey Chest 1",
+        "region": "Abbey",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Abbey Chest 2",
+        "region": "Abbey",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Abbey shop",
+        "region": "Abbey",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Old King Defeated",
+        "region": "Abbey",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Brother Albern's Chest",
+        "region": "Abbey",
+        "category": [
+        "Minigames"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Buy the Gnawed Key",
+        "region": "Black Powder Mine",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Complete the Rat's Maze",
+        "region": "Rat's Lair",
+        "category": [
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Defeat the Rat (Normal Gameplay)",
+        "region": "Rat's Lair",
+        "category": [
+        "Floorboss",
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Defeat the Rat (Punchout)",
+        "region": "Rat's Lair",
+        "category": [
+        "Punchout",
+        "Rat",
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Rat's Chest Top Left",
+        "region": "Rat's Lair",
+        "category": [
+        "Chests",
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Rat's Chest Top Right",
+        "region": "Rat's Lair",
+        "category": [
+        "Chests",
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Rat's Chest Bottom Left",
+        "region": "Rat's Lair",
+        "category": [
+        "Chests",
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Rat's Chest Bottom Right",
+        "region": "Rat's Lair",
+        "category": [
+        "Chests",
+        "Rat"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "R&G Giant Manager Defeated",
+        "region": "R&G dept.",
+        "category": [
+        "Miniboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Agunim Defeated",
+        "region": "R&G dept.",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Shops"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Lich Defeated",
+        "region": "Hell",
+        "category": [
+        "Floorboss"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Convict Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Bullet Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Gunslinger Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Gunslinger| AND |Chamber Key Hell|"
+    },
+    {
+        "name": "All Pasts Killed",
+        "region": "The Past",
+        "victory": true,
+        "category": [
+        "Past Killed"
+        ],
+        "requires": "|The Convict| AND |The Hunter| AND |The Marine| AND |The Pilot| AND |The Robot| AND |The Bullet| AND |The Gunslinger| AND |Chamber Key Hell|"
+    }
+
+]

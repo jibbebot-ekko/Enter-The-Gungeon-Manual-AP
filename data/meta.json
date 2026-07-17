@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.meta.schema.json",
+    "docs": {
+        "apworld_description": [
+            "Enter the Gungeon is a roguelike game where brave gungeoneers must delve into the gungeon to kill their past."
+        ],
+        "web": {
+            "theme": "stone"
+        }
+    }
+}

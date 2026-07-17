@@ -1,0 +1,68 @@
+{
+    "Keep of the Lead Lord": {
+        "starting": true,
+        "connects_to": [
+            "Oubliette",
+            "Gungeon Proper"
+        ],
+        "requires": ""
+    },
+
+    "Oubliette": {
+        "connects_to": [],
+        "requires": "|Chamber Key Oubliette|"
+    },
+
+    "Gungeon Proper": {
+        "connects_to": [
+            "Black Powder Mine",
+            "Abbey"
+        ],
+        "requires": "|Chamber Key Gungeon Proper|"
+    },
+
+    "Abbey": {
+    "connects_to": [],
+    "requires": "|Chamber Key Abbey|"
+    },
+
+    "Black Powder Mine": {
+        "connects_to": [
+            "Hollow",
+            "Rat's Lair"
+        ],
+        "requires": "|Chamber Key Black Powder Mine|"
+    },
+
+    "Rat's Lair": {
+        "connects_to": [],
+        "requires": "|Chamber Key Rat's lair| AND |Rat's note:4|"
+    },
+
+    "Hollow": {
+        "connects_to": [
+            "Forge",
+            "R&G dept."
+        ],
+        "requires": "|Chamber Key Hollow|"
+    },
+        "R&G dept.": {
+        "connects_to": [],
+        "requires": "|Chamber Key R&G dept.|"
+    },
+    "Forge": {
+        "connects_to": [
+            "The Past",
+            "Hell"
+        ],
+        "requires": "|Chamber Key Forge|"
+    },
+    "The Past": {
+        "connects_to": [],
+        "requires": "|Prime Primer| AND |Arcane Gunpowder| AND |Planar Lead| AND |Obsidian Shell Casing|"
+    },
+    "Hell": {
+        "connects_to": [],
+        "requires": "|Chamber Key Hell|"
+    }
+}
