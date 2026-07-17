@@ -26,37 +26,37 @@
     {
         "count":"1",
         "name": "The Pilot",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
         "count":"1",
         "name": "The Marine",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
         "count":"1",
         "name": "The Hunter",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
         "count":"1",
         "name": "The Convict",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
         "count":"1",
         "name": "The Bullet",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
         "count":"1",
         "name": "The Robot",
-        "category": ["characters"],
+        "category": ["characters","Pasthaver"],
         "progression": true
     },
     {
@@ -68,7 +68,31 @@
     {
         "count":"1",
         "name": "The Gunslinger",
+        "category": ["characters","Pasthaver"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Cultist",
         "category": ["characters"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Ninja",
+        "category": ["characters","cutcontent"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "Lamey",
+        "category": ["characters","cutcontent","Pasthaver"],
+        "progression": true
+    },
+    {
+        "count":"1",
+        "name": "The Cosmonaut",
+        "category": ["characters","cutcontent"],
         "progression": true
     },
     {
@@ -121,7 +145,7 @@
     },
     {
         "count":"1",
-        "name": "Chamber Key Hell",
+        "name": "Chamber Key Bullet Hell",
         "category": ["Secretchambers"],
         "progression": true
     },
@@ -130,6 +154,150 @@
         "name": "Rat's note",
         "category": ["Secretchambers"],
         "progression": true
+    },
+    {
+        "count":"10",
+        "name": "Progressive Starting Chest",
+        "category": ["Starting Items"],
+        "useful": true
+    },
+    {
+        "count":"5",
+        "name": "Progressive Starting Keys",
+        "category": ["Starting Items"],
+        "useful": true
+    },
+    {
+        "count":"5",
+        "name": "Progressive Starting Blanks",
+        "category": ["Starting Items"],
+        "useful": true
+    },
+    {
+        "count":"5",
+        "name": "Progressive Starting Amrmor",
+        "category": ["Starting Items"],
+        "useful": true
+    },
+    {
+        "count":"5",
+        "name": "Coupon for 1 ser Junkan",
+        "category": ["Consumable"],
+        "useful": true
+    },
+    {
+        "count":"2",
+        "name": "Coupon for 1 Clone",
+        "category": ["Consumable"],
+        "useful": true
+    },
+    {
+        "count":"2",
+        "name": "Coupon for 1 ser Finished Gun",
+        "category": ["Consumable"],
+        "useful": true
+    },
+    {
+        "count":"3",
+        "name": "Coupon for 1 full curse cleanse",
+        "category": ["Consumable"],
+        "useful": true
+    },
+    {
+        "count":"1",
+        "name": "Shortcut To Chamber 2",
+        "category": ["Shortcuts"],
+        "useful": true
+    },
+    {
+        "count":"1",
+        "name": "Shortcut To Chamber 3",
+        "category": ["Shortcuts"],
+        "useful": true
+    },
+    {
+        "count":"1",
+        "name": "Shortcut To Chamber 4",
+        "category": ["Shortcuts"],
+        "useful": true
+    },
+    {
+        "count":"1",
+        "name": "Shortcut To Chamber 5",
+        "category": ["Shortcuts"],
+        "useful": true
+    },
+    {
+        "count":"1",
+        "name": "Convict Alternate Outfit",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Hunter Alternate Outfit",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Marine Alternate Outfit",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Pilot Alternate Outfit",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Bullet Alternate Outfit",
+        "category": ["Cosmetic","secretcharacters"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Robot Alternate Outfit",
+        "category": ["Cosmetic","secretcharacters"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Convict Alternate Gun",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Hunter Alternate Gun",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Marine Alternate Gun",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "pilot Alternate Gun",
+        "category": ["Cosmetic"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Bullet Alternate Gun",
+        "category": ["Cosmetic","secretcharacters"],
+        "filler": true
+    },
+    {
+        "count":"1",
+        "name": "Robot Alternate Gun",
+        "category": ["Cosmetic"],
+        "filler": true
     }
 
 ]

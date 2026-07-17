@@ -3,7 +3,8 @@
         "name": "KotLL Chest 1",
         "region": "Keep of the Lead Lord",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -11,7 +12,8 @@
         "name": "KotLL Chest 2",
         "region": "Keep of the Lead Lord",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -19,7 +21,8 @@
         "name": "KotLL Shop",
         "region": "Keep of the Lead Lord",
         "category": [
-        "Shops"
+        "Shops",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -27,7 +30,8 @@
         "name": "KotLL Boss Defeated",
         "region": "Keep of the Lead Lord",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
@@ -35,15 +39,658 @@
         "name": "KotLL Master Round",
         "region": "Keep of the Lead Lord",
         "category": [
-        "Masterrounds"
+        "Masterrounds",
+        "bosssinglecheck"
         ],
         "requires": ""
+    },
+    {
+        "name": "Convict, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 1"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 1"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 1"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Convict Chamber 1"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Convict Chamber 1"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 1"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 1"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 1"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Hunter Chamber 1"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Hunter Chamber 1"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 1"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 1"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 1"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Marine Chamber 1"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Marine Chamber 1"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 1"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 1"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 1"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Pilot Chamber 1"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Pilot Chamber 1"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Cultist, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 1",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 1",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 1",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cultist Chamber 1",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cultist Chamber 1",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Bullet, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Bullet Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Bullet Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Robot Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Robot Chamber 1",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Paradox, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Paradox Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Paradox Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Gunslinger, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Gunslinger Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Gunslinger Chamber 1",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Ninja, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Ninja Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Ninja Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Lamey, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Lamey Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Lamey Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Cosmonaut, KotLL Chest 1",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, KotLL Chest 2",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, KotLL Shop",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, KotLL Boss Defeated",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cosmonaut Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, KotLL Master Round",
+        "region": "Keep of the Lead Lord",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cosmonaut Chamber 1",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
     },
     {
         "name": "Oubliette Chest 1",
         "region": "Oubliette",
         "category": [
-        "Chests"
+        "Chests",
+        "Oubliette Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -51,21 +698,29 @@
         "name": "Oubliette Chest 2",
         "region": "Oubliette",
         "category": [
-        "Chests"
+        "Chests",
+        "Oubliette Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
     {
         "name": "Old Crest",
         "region": "Oubliette",
-        "category": [],
+        "category": [
+        "secretchambers",
+        "Oubliette Checks",
+        "secretchambers"        
+        ],
         "requires": ""
     },
     {
         "name": "Blobulord defeated",
         "region": "Oubliette",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "Oubliette Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -73,7 +728,8 @@
         "name": "Gungeon Proper Chest 1",
         "region": "Gungeon Proper",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -81,7 +737,8 @@
         "name": "Gungeon Proper Chest 2",
         "region": "Gungeon Proper",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -89,7 +746,8 @@
         "name": "Gungeon Proper Shop",
         "region": "Gungeon Proper",
         "category": [
-        "Shops"
+        "Shops",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -97,7 +755,8 @@
         "name": "Gungeon Proper Boss Defeated",
         "region": "Gungeon Proper",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
@@ -105,15 +764,659 @@
         "name": "Gungeon Proper Master Round",
         "region": "Gungeon Proper",
         "category": [
-        "Masterrounds"
+        "Masterrounds",
+        "bosssinglecheck"
         ],
         "requires": ""
+    },
+
+    {
+        "name": "Convict, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 2"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 2"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 2"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Convict Chamber 2"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Convict Chamber 2"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 2"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 2"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 2"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Hunter Chamber 2"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Hunter Chamber 2"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 2"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 2"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 2"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Marine Chamber 2"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Marine Chamber 2"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 2"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 2"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 2"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Pilot Chamber 2"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Pilot Chamber 2"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Cultist, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 2",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 2",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 2",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cultist Chamber 2",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cultist Chamber 2",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Bullet, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Bullet Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Bullet Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Robot Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Robot Chamber 2",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Paradox, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Paradox Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Paradox Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Gunslinger, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Gunslinger Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Gunslinger Chamber 2",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Ninja, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Ninja Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Ninja Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Lamey, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Lamey Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Lamey Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Cosmonaut, Gungeon Proper Chest 1",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Gungeon Proper Chest 2",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Gungeon Proper Shop",
+        "region": "Gungeon Proper",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Gungeon Proper Boss Defeated",
+        "region": "Gungeon Proper",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cosmonaut Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Gungeon Proper Master Round",
+        "region": "Gungeon Proper",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cosmonaut Chamber 2",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
     },
     {
         "name": "Abbey Chest 1",
         "region": "Abbey",
         "category": [
-        "Chests"
+        "Chests",
+        "Abbey Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -121,7 +1424,9 @@
         "name": "Abbey Chest 2",
         "region": "Abbey",
         "category": [
-        "Chests"
+        "Chests",
+        "Abbey Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -129,7 +1434,9 @@
         "name": "Abbey shop",
         "region": "Abbey",
         "category": [
-        "Shops"
+        "Shops",
+        "Abbey Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -137,7 +1444,9 @@
         "name": "Old King Defeated",
         "region": "Abbey",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "Abbey Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -145,7 +1454,8 @@
         "name": "Brother Albern's Chest",
         "region": "Abbey",
         "category": [
-        "Minigames"
+        "secretchambers",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -153,7 +1463,8 @@
         "name": "BPM Chest 1",
         "region": "Black Powder Mine",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -161,7 +1472,8 @@
         "name": "BPM Chest 2",
         "region": "Black Powder Mine",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -169,7 +1481,8 @@
         "name": "BPM Shop",
         "region": "Black Powder Mine",
         "category": [
-        "Shops"
+        "Shops",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -185,7 +1498,8 @@
         "name": "BPM Boss Defeated",
         "region": "Black Powder Mine",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
@@ -193,15 +1507,658 @@
         "name": "BPM Master Round",
         "region": "Black Powder Mine",
         "category": [
-        "Masterrounds"
+        "Masterrounds",
+        "bosssinglecheck"
         ],
         "requires": ""
+    },
+    {
+        "name": "Convict, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 3"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 3"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 3"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Convict Chamber 3"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Convict Chamber 3"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 3"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 3"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 3"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Hunter Chamber 3"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Hunter Chamber 3"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 3"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 3"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 3"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Marine Chamber 3"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Marine Chamber 3"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 3"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 3"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 3"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Pilot Chamber 3"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Pilot Chamber 3"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Cultist, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 3",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 3",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 3",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cultist Chamber 3",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cultist Chamber 3",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Bullet, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Bullet Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Bullet Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Robot Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Robot Chamber 3",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Paradox, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Paradox Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Paradox Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Gunslinger, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Gunslinger Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Gunslinger Chamber 3",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Ninja, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Ninja Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Ninja Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Lamey, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Lamey Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Lamey Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Cosmonaut, BPM Chest 1",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, BPM Chest 2",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, BPM Shop",
+        "region": "Black Powder Mine",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, BPM Boss Defeated",
+        "region": "Black Powder Mine",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cosmonaut Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, BPM Master Round",
+        "region": "Black Powder Mine",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cosmonaut Chamber 3",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
     },
     {
         "name": "Complete the Rat's Maze",
         "region": "Rat's Lair",
         "category": [
-        "Rat"
+        "Rat's Lair Checks",
+        "itemsinglecheck",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -210,7 +2167,8 @@
         "region": "Rat's Lair",
         "category": [
         "Floorboss",
-        "Rat"
+        "Rat's Lair Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -219,8 +2177,9 @@
         "region": "Rat's Lair",
         "category": [
         "Punchout",
-        "Rat",
-        "Floorboss"
+        "Rat's Lair Checks",
+        "Floorboss",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -229,7 +2188,8 @@
         "region": "Rat's Lair",
         "category": [
         "Chests",
-        "Rat"
+        "Rat's Lair Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -238,7 +2198,8 @@
         "region": "Rat's Lair",
         "category": [
         "Chests",
-        "Rat"
+        "Rat's Lair Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -247,7 +2208,8 @@
         "region": "Rat's Lair",
         "category": [
         "Chests",
-        "Rat"
+        "Rat's Lair Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -256,7 +2218,8 @@
         "region": "Rat's Lair",
         "category": [
         "Chests",
-        "Rat"
+        "Rat's Lair Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -264,7 +2227,8 @@
         "name": "Hollow Chest 1",
         "region": "Hollow",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -272,7 +2236,8 @@
         "name": "Hollow Chest 2",
         "region": "Hollow",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -280,7 +2245,8 @@
         "name": "Hollow Shop",
         "region": "Hollow",
         "category": [
-        "Shops"
+        "Shops",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -288,7 +2254,8 @@
         "name": "Hollow Boss Defeated",
         "region": "Hollow",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
@@ -296,15 +2263,657 @@
         "name": "Hollow Master Round",
         "region": "Hollow",
         "category": [
-        "Masterrounds"
+        "Masterrounds",
+        "bosssinglecheck"
         ],
         "requires": ""
+    },
+    {
+        "name": "Convict, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 4"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 4"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 4"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Convict Chamber 4"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Convict Chamber 4"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 4"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 4"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 4"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Hunter Chamber 4"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Hunter Chamber 4"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 4"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 4"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 4"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Marine Chamber 4"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Marine Chamber 4"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 4"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 4"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 4"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Pilot Chamber 4"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Pilot Chamber 4"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Cultist, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 4",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 4",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 4",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cultist Chamber 4",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cultist Chamber 4",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Bullet, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Bullet Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Bullet Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Robot Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Robot Chamber 4",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Paradox, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Paradox Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Paradox Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Gunslinger, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Gunslinger Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Gunslinger Chamber 4",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Ninja, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Ninja Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Ninja Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Lamey, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Lamey Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Lamey Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Cosmonaut, Hollow Chest 1",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Hollow Chest 2",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Hollow Shop",
+        "region": "Hollow",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Hollow Boss Defeated",
+        "region": "Hollow",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cosmonaut Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Hollow Master Round",
+        "region": "Hollow",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cosmonaut Chamber 4",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
     },
     {
         "name": "R&G Giant Manager Defeated",
         "region": "R&G dept.",
         "category": [
-        "Miniboss"
+        "R&G dept. Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -312,7 +2921,9 @@
         "name": "Agunim Defeated",
         "region": "R&G dept.",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "R&G dept. Checks",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -320,7 +2931,8 @@
         "name": "Forge Chest 1",
         "region": "Forge",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -328,7 +2940,8 @@
         "name": "Forge Chest 2",
         "region": "Forge",
         "category": [
-        "Chests"
+        "Chests",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -336,7 +2949,8 @@
         "name": "Forge Shop",
         "region": "Forge",
         "category": [
-        "Shops"
+        "Shops",
+        "itemsinglecheck"
         ],
         "requires": ""
     },
@@ -344,7 +2958,8 @@
         "name": "High Dragun Defeated",
         "region": "Forge",
         "category": [
-        "Floorboss"
+        "Floorboss",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
@@ -352,15 +2967,657 @@
         "name": "Forge Master Round",
         "region": "Forge",
         "category": [
-        "Masterrounds"
+        "Masterrounds",
+        "bosssinglecheck"
         ],
         "requires": ""
     },
     {
-        "name": "Lich Defeated",
-        "region": "Hell",
+        "name": "Convict, Forge Chest 1",
+        "region": "Keep of the Lead Lord",
         "category": [
-        "Floorboss"
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 5"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 5"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Convict Chamber 5"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Convict Chamber 5"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Convict, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Convict Chamber 5"
+        ],
+        "requires": "|The Convict|"
+    },
+    {
+        "name": "Hunter, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 5"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 5"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Hunter Chamber 5"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Hunter Chamber 5"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Hunter, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Hunter Chamber 5"
+        ],
+        "requires": "|The Hunter|"
+    },
+    {
+        "name": "Marine, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 5"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 5"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Marine Chamber 5"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Marine Chamber 5"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Marine, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Marine Chamber 5"
+        ],
+        "requires": "|The Marine|"
+    },
+    {
+        "name": "Pilot, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 5"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 5"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Pilot Chamber 5"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Pilot Chamber 5"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Pilot, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Pilot Chamber 5"
+        ],
+        "requires": "|The Pilot|"
+    },
+    {
+        "name": "Cultist, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 5",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 5",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cultist Chamber 5",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cultist Chamber 5",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Cultist, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cultist Chamber 5",
+        "cultist"
+        ],
+        "requires": "|The Cultist|"
+    },
+    {
+        "name": "Bullet, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Bullet Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Bullet Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Bullet, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Bullet Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Bullet|"
+    },
+    {
+        "name": "Robot, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Robot Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Robot Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Robot, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Robot Chamber 5",
+        "secretcharacters"
+        ],
+        "requires": "|The Robot|"
+    },
+    {
+        "name": "Paradox, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Paradox Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Paradox Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Paradox, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Paradox Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Paradox|"
+    },
+    {
+        "name": "Gunslinger, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Gunslinger Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Gunslinger Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Gunslinger, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Gunslinger Chamber 5",
+        "FTAcharacters"
+        ],
+        "requires": "|The Gunslinger|"
+    },
+    {
+        "name": "Ninja, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Ninja Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Ninja Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Ninja, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Ninja Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Ninja|"
+    },
+    {
+        "name": "Lamey, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Lamey Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Lamey Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Lamey, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Lamey Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Cosmonaut, Forge Chest 1",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Forge Chest 2",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Forge Shop",
+        "region": "Forge",
+        "category": [
+        "Chests",
+        "itempercharacter",
+        "Cosmonaut Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, High Dragun Defeated",
+        "region": "Forge",
+        "category": [
+        "Floorboss",
+        "bosspercharacter",
+        "Cosmonaut Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Cosmonaut, Forge Master Round",
+        "region": "Forge",
+        "category": [
+        "Masterrounds",
+        "bosspercharacter",
+        "Cosmonaut Chamber 5",
+        "cutcontent"
+        ],
+        "requires": "|The Cosmonaut|"
+    },
+    {
+        "name": "Lich Defeated",
+        "region": "Bullet Hell",
+        "category": [
+        "Floorboss",
+        "secretchambers"
         ],
         "requires": ""
     },
@@ -400,7 +3657,8 @@
         "name": "Bullet Past Killed",
         "region": "The Past",
         "category": [
-        "Past Killed"
+        "Past Killed",
+        "secretcharacters"
         ],
         "requires": "|The Bullet|"
     },
@@ -408,7 +3666,8 @@
         "name": "Robot Past Killed",
         "region": "The Past",
         "category": [
-        "Past Killed"
+        "Past Killed",
+        "secretcharacters"
         ],
         "requires": "|The Robot|"
     },
@@ -416,18 +3675,28 @@
         "name": "Gunslinger Past Killed",
         "region": "The Past",
         "category": [
-        "Past Killed"
+        "Past Killed",
+        "FTAcharacters"
         ],
-        "requires": "|The Gunslinger| AND |Chamber Key Hell|"
+        "requires": "|The Gunslinger|"
     },
     {
-        "name": "All Pasts Killed",
+        "name": "Lamey Past Killed",
+        "region": "The Past",
+        "category": [
+        "Past Killed",
+        "cutcontent"
+        ],
+        "requires": "|Lamey|"
+    },
+    {
+        "name": "Kill the Past of your selected amount of characters",
         "region": "The Past",
         "victory": true,
         "category": [
         "Past Killed"
         ],
-        "requires": "|The Convict| AND |The Hunter| AND |The Marine| AND |The Pilot| AND |The Robot| AND |The Bullet| AND |The Gunslinger| AND |Chamber Key Hell|"
+        "requires": "{OptionCount(@Pasthaver, Pasts_Killed_Goal_Amount)}"
     }
 
 ]

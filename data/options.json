@@ -1,32 +1,182 @@
 {
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+
     "core": {
         "goal":{
             "_comment": [
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "Killed the Past",
-            "description": "Kill the past of every character (except paradox and cultist)",
-            "aliases": {"easiest": 0},
-            "hidden": false
+        ],
+        "display_name": "The End Objective",
+        "description": "How to End your Randomized playthrough.",
+        "aliases": {"easiest": 0},
+        "hidden": false
         },
+
         "death_link": {
-            "default": false
-        },
-        "filler_traps": {
+            "type": "Toggle",
+             "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+    "default": false
+},
+
+        "_filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
                 "recommended": 20
             }
         }
     },
+
     "user": {
+        "Pasts_Killed_Goal_Amount":{
+            "type": "Range",
+            "description": [
+                "Select how many pasts must be killed to complete the game. (ensure you have enough characters with pasts to complete the game)"
+            ],
+            "range_start": 1,
+            "default": 4,
+            "range_end": 8
+        },
+
+        "enable_secret_chambers": {
+            "description": [
+                "Enables secret chambers (The Oubliette, The Abbey, The Rat's Lair, the R&G dept., and Bullet Hell)"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+        "enable_punchout":{
+            "description": [
+                "Enables the location check for defeating the Resourceful Rat in punchout"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+
+        "enable_secret_characters": {
+            "description": [
+                "Enables the Bullet and the Robot, adds 2 pasts"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+
+        "enable_farewell_to_arms_characters": {
+            "description": [
+                "Enables the Paradox and the Gunslinger, adds 1 past"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+        "enable_cultist": {
+            "description": [
+                "Enables the Cultist"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+
+        "enable_cut_content": {
+            "description": [
+                "Enables cut gungeoneers (The Ninja, Lamey, and the Cosmonaut), adds 1 past"
+            ],
+            "type":"Toggle",
+            "default": false
+        },
+
+        "enable_master_rounds": {
+            "description": [
+                "Enables Master rounds as locations checks"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+
+        "enable_itemchecks_per_character": {
+            "description": [
+                "Enables chests and shops as location checks for each character rather than only counting once"
+            ],
+            "type":"Toggle",
+            "default": true
+        },
+
+        "enable_bosschecks_per_character": {
+            "description": [
+                "Enables bosses and Master Rounds (if enabled) as location checks for each character rather than only counting once"
+            ],
+            "type":"Toggle",
+            "default": true
+
+        },
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         "_commented_out_option":{
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "_Example_Toggle":{
             "description": [
                 "This is a Toggle",
                 "A simple boolean, aka True or False set the initial value with \"default\""
@@ -35,7 +185,7 @@
             "default": false,
             "group": "Example Options"
         },
-        "Example_Choice":{
+        "_Example_Choice":{
             "type": "Choice",
             "description": [
                 "This is a Choice",
@@ -51,7 +201,7 @@
             "allow_custom_value": false,
             "group": "Example Options"
         },
-        "Example_Range":{
+        "_Example_Range":{
             "type": "Range",
             "description": [
                 "This is a Range",
@@ -66,7 +216,7 @@
             "group": "Example Options"
         },
 
-        "DLC_enabled":{
+        "_DLC_enabled":{
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
             "type": "Toggle",

@@ -1,6 +1,64 @@
 {
-    "Secretchambers": {
+    "secretchambers": {
        "yaml_option": ["enable_secret_chambers"]
+    },
+
+    "cutcontent": {
+        "yaml_option": ["enable_cut_content"],
+        "hidden":true
+    },
+
+    "secretcharacters": {
+    "yaml_option":["enable_secret_characters"],
+    "hidden": true
+    },
+
+    "FTAcharacters": {
+        "yaml_option":["enable_farewell_to_arms_characters"],
+        "hidden": true
+    },
+    
+    "cultist": {
+        "yaml_option":["enable_cultist"],
+        "hidden": true
+    },
+
+    "itempercharacter": {
+        "yaml_option": ["enable_itemchecks_per_character"],
+        "hidden": true
+    },
+    "itemsinglecheck": {
+        "yaml_option": ["!enable_itemchecks_per_character"],
+        "hidden": true
+    },
+
+    "bosspercharacter": {
+        "yaml_option": ["enable_bosschecks_per_character"],
+        "hidden": true
+    },
+    "bosssinglecheck": {
+        "yaml_option": ["!enable_bosschecks_per_character"],
+        "hidden": true
+    },
+    "punchout": {
+        "yaml_option": ["enable_punchout"],
+        "hidden": true
+    },
+    "Chests": {
+        "hidden": false
+    },
+    "Shops": {
+        "hidden": false
+    },
+    "Floorboss": {
+        "hidden": false
+    },
+    "Masterrounds": {
+        "hidden": false
     }
+
+
+
+
 
 }

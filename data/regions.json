@@ -53,7 +53,7 @@
     "Forge": {
         "connects_to": [
             "The Past",
-            "Hell"
+            "Bullet Hell"
         ],
         "requires": "|Chamber Key Forge|"
     },
@@ -61,8 +61,8 @@
         "connects_to": [],
         "requires": "|Prime Primer| AND |Arcane Gunpowder| AND |Planar Lead| AND |Obsidian Shell Casing|"
     },
-    "Hell": {
+    "Bullet Hell": {
         "connects_to": [],
-        "requires": "|Chamber Key Hell|"
+        "requires": "|Chamber Key Bullet Hell|"
     }
 }
