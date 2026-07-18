@@ -57,3 +57,6 @@ These coupons can be exchanged for their corresponding item once per coupon. Use
 
 - **Alternate outfit/gun** \
 These unlock the cosmetic alternate outfits/guns of their corresponding gungeoneers.
+
+- **Ser Junkan's favor** \
+Filler item
