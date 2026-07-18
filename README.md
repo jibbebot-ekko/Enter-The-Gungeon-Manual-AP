@@ -23,24 +23,24 @@ To check of each location, unlock or destroy each chest, buy at least one item f
 Shortcuts and other useful items are also available in the pool, their use is detailed below. Some items require use of the console which can be accessed using F2 ingame.
 Death link is available, you send a deathlink if you lose a run, receiving a deathlink means going back to the breach, or dying intentionally once if you have any items (i.e. Clone) that prevent death.
 
-Items you can receive:
+Items you can receive: 
 
-- Chamber key x
+- **Chamber key x** \
 Chamber keys unlock the chambers of the gungeon, you are only allowed to progress to a chamber (including secret chambers) if you have the corresponding key.
 
-- Prime Primer, Obsidian Shell Casing, Arcane Gunpowder, Planar Lead.
+- **Prime Primer, Obsidian Shell Casing, Arcane Gunpowder, Planar Lead.** \
 All parts of the bullet that can kill the past are required to access the past.
 
-- The Pilot, The Marine, etc.
+- **The Pilot, The Marine, etc.** \
 Receiving a gungeoneer unlocks that gungeoneer as playable. By default, you start with one random gungeoneer, which you can see in the received items tab of the manual client. Some gungeoneers, such as the cultist and cut content gungeoneers cannot be selected normally. To play as these gungeoneers use the "character" command in the console (e.g. "character cosmonaut").
 
-- Shortcut Chamber x
+- **Shortcut Chamber x** \
 These items unlock their respective shortcut, you are only allowed to use the shortcuts of chambers you have access to normally (Have the key + Previous chamber unlocked)
 
-- Progressive starting keys, blanks, armor
+- **Progressive starting keys, blanks, armor** \
 These items allow the player to start with additional boons at the start of the run. For blanks, armor, and keys spawn in an amount equal to the number of progressive starting x of that type you have using the "spawn item" command (e.g. "spawn item blank 2" if you have 2 progressive starting blank). Do this at the start of each new run.
 
-- Progressive starting chest
+- **Progressive starting chest** \
 Similar to progressive starting item, this allows the player to start with a little extra at the start. The table below dictates what kind of chest you start with depending on how many progressive starting chest items you have. Spawn in your starting chest at the start of each run using "spawn chest x normal" replacing x with the kind of chest you should receive.
 
 | Progressive starting chest amount  | Chest type |
@@ -52,8 +52,8 @@ Similar to progressive starting item, this allows the player to start with a lit
 | 9-10 | black |
 | 11+ | rainbow |
 
-- Coupon for x
+- **Coupon for x** \
 These coupons can be exchanged for their corresponding item once per coupon. Use them during a run by using the "spawn" command in the console. Keep track of which coupons have been used, as they are valid for one use each.
 
-- Alternate outfit/gun
+- **Alternate outfit/gun** \
 These unlock the cosmetic alternate outfits/guns of their corresponding gungeoneers.
