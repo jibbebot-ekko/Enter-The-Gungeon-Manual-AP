@@ -5,12 +5,12 @@
 - Archipelago client
 - The latest release of manual Archipelago
 - A legal copy of Enter the Gungeon on PC
-- A 100% save file of ETG
+- A 100% save file of ETG which can be found here: https://www.speedrun.com/enter_the_gungeon/resources/vt4j8
 - BepInExPack for Enter the Gungeon https://thunderstore.io/c/enter-the-gungeon/p/BepInEx/BepInExPack_EtG/
 - Mod the Gungeon API https://thunderstore.io/c/enter-the-gungeon/p/MtG_API/Mod_the_Gungeon_API/
 
 # Setup Guide
-1. Download Thunderstore and, through it, BepInExPack and Mod the Gungeon API.
+1. Download Thunderstore Mod Manager and, through it, BepInExPack and Mod the Gungeon API.
 2. Download and install this .apworld (either double click or put in custom worlds folder).
 3. Adjust the .yaml file to your liking and send it to the AP host. If you are the host, put the .yaml in the players folder of your Archipelago install.
 4. If you don't have the manual client, download and install the latest version.
