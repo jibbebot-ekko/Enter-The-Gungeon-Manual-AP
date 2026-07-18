@@ -5,6 +5,7 @@
 - Archipelago client
 - The latest release of manual Archipelago
 - A legal copy of Enter the Gungeon on PC
+- A 100% save file of ETG
 - BepInExPack for Enter the Gungeon https://thunderstore.io/c/enter-the-gungeon/p/BepInEx/BepInExPack_EtG/
 - Mod the Gungeon API https://thunderstore.io/c/enter-the-gungeon/p/MtG_API/Mod_the_Gungeon_API/
 
