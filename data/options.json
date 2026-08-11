@@ -24,7 +24,7 @@
     "default": false
 },
 
-        "_filler_traps": {
+        "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
                 "recommended": 20
@@ -45,14 +45,15 @@
 
         "enable_secret_chambers": {
             "description": [
-                "Enables secret chambers (The Oubliette, The Abbey, The Rat's Lair, the R&G dept., and Bullet Hell)"
+                "Enables secret chambers (The Oubliette, The Abbey, The Rat's Lair, the R&G dept., and Bullet Hell)",
+                "Locations inside secret chambers are always only checked once, not per character"
             ],
             "type":"Toggle",
             "default": true
         },
         "enable_punchout":{
             "description": [
-                "Enables the location check for defeating the Resourceful Rat in punchout"
+                "Enables a location check for defeating the Resourceful Rat in punchout"
             ],
             "type":"Toggle",
             "default": true
@@ -91,7 +92,7 @@
 
         "enable_master_rounds": {
             "description": [
-                "Enables Master rounds as locations checks"
+                "Enables Master Rounds as locations checks"
             ],
             "type":"Toggle",
             "default": true
@@ -99,7 +100,7 @@
 
         "enable_itemchecks_per_character": {
             "description": [
-                "Enables chests and shops as location checks for each character rather than only counting once"
+                "Enables chests and shops as location checks for each character individually rather than only counting once, this adds many checks"
             ],
             "type":"Toggle",
             "default": true
@@ -107,11 +108,19 @@
 
         "enable_bosschecks_per_character": {
             "description": [
-                "Enables bosses and Master Rounds (if enabled) as location checks for each character rather than only counting once"
+                "Enables bosses as location checks for each character rather than only counting once"
             ],
             "type":"Toggle",
             "default": true
 
+        },
+
+        "enable_MRchecks_per_character": {
+            "description": [
+                "Enables Master Rounds as location checks for each character rather than only counting once"
+            ],
+            "type": "Toggle",
+            "default": false
         },
 
         

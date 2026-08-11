@@ -40,7 +40,7 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosssinglecheck"
+        "MRsinglecheck"
         ],
         "requires": ""
     },
@@ -89,8 +89,8 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Convict Chamber 1"
+        "Convict Chamber 1",
+        "MRpercharacter"
         ],
         "requires": "|The Convict|"
     },
@@ -139,8 +139,8 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Hunter Chamber 1"
+        "Hunter Chamber 1",
+        "MRpercharacter"
         ],
         "requires": "|The Hunter|"
     },
@@ -189,8 +189,8 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Marine Chamber 1"
+        "Marine Chamber 1",
+        "MRpercharacter"
         ],
         "requires": "|The Marine|"
     },
@@ -239,8 +239,8 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Pilot Chamber 1"
+        "Pilot Chamber 1",
+        "MRpercharacter"
         ],
         "requires": "|The Pilot|"
     },
@@ -293,9 +293,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cultist Chamber 1",
-        "cultist"
+        "cultist",
+        "MRpercharacter"
         ],
         "requires": "|The Cultist|"
     },
@@ -348,9 +348,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Bullet Chamber 1",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Bullet|"
     },
@@ -403,9 +403,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Robot Chamber 1",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Robot|"
     },
@@ -458,9 +458,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Paradox Chamber 1",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Paradox|"
     },
@@ -513,9 +513,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Gunslinger Chamber 1",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Gunslinger|"
     },
@@ -568,9 +568,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Ninja Chamber 1",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Ninja|"
     },
@@ -623,9 +623,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Lamey Chamber 1",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|Lamey|"
     },
@@ -678,9 +678,9 @@
         "region": "Keep of the Lead Lord",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cosmonaut Chamber 1",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Cosmonaut|"
     },
@@ -699,6 +699,16 @@
         "region": "Oubliette",
         "category": [
         "Chests",
+        "Oubliette Checks",
+        "secretchambers"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Oubliette Shop",
+        "region": "Oubliette",
+        "category": [
+        "Shops",
         "Oubliette Checks",
         "secretchambers"
         ],
@@ -765,7 +775,7 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosssinglecheck"
+        "MRsinglecheck"
         ],
         "requires": ""
     },
@@ -815,8 +825,8 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Convict Chamber 2"
+        "Convict Chamber 2",
+        "MRpercharacter"
         ],
         "requires": "|The Convict|"
     },
@@ -865,8 +875,8 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Hunter Chamber 2"
+        "Hunter Chamber 2",
+        "MRpercharacter"
         ],
         "requires": "|The Hunter|"
     },
@@ -915,8 +925,8 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Marine Chamber 2"
+        "Marine Chamber 2",
+        "MRpercharacter"
         ],
         "requires": "|The Marine|"
     },
@@ -965,8 +975,8 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Pilot Chamber 2"
+        "Pilot Chamber 2",
+        "MRpercharacter"
         ],
         "requires": "|The Pilot|"
     },
@@ -1019,9 +1029,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cultist Chamber 2",
-        "cultist"
+        "cultist",
+        "MRpercharacter"
         ],
         "requires": "|The Cultist|"
     },
@@ -1074,9 +1084,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Bullet Chamber 2",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Bullet|"
     },
@@ -1129,9 +1139,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Robot Chamber 2",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Robot|"
     },
@@ -1184,9 +1194,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Paradox Chamber 2",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Paradox|"
     },
@@ -1239,9 +1249,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Gunslinger Chamber 2",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Gunslinger|"
     },
@@ -1294,9 +1304,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Ninja Chamber 2",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Ninja|"
     },
@@ -1349,9 +1359,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Lamey Chamber 2",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|Lamey|"
     },
@@ -1404,9 +1414,9 @@
         "region": "Gungeon Proper",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cosmonaut Chamber 2",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Cosmonaut|"
     },
@@ -1508,7 +1518,7 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosssinglecheck"
+        "MRsinglecheck"
         ],
         "requires": ""
     },
@@ -1557,8 +1567,8 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Convict Chamber 3"
+        "Convict Chamber 3",
+        "MRpercharacter"
         ],
         "requires": "|The Convict|"
     },
@@ -1607,8 +1617,8 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Hunter Chamber 3"
+        "Hunter Chamber 3",
+        "MRpercharacter"
         ],
         "requires": "|The Hunter|"
     },
@@ -1657,8 +1667,8 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Marine Chamber 3"
+        "Marine Chamber 3",
+        "MRpercharacter"
         ],
         "requires": "|The Marine|"
     },
@@ -1707,8 +1717,8 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Pilot Chamber 3"
+        "Pilot Chamber 3",
+        "MRpercharacter"
         ],
         "requires": "|The Pilot|"
     },
@@ -1761,9 +1771,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cultist Chamber 3",
-        "cultist"
+        "cultist",
+        "MRpercharacter"
         ],
         "requires": "|The Cultist|"
     },
@@ -1816,9 +1826,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Bullet Chamber 3",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Bullet|"
     },
@@ -1871,9 +1881,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Robot Chamber 3",
-        "secretcharacters"
+        "secretcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Robot|"
     },
@@ -1926,9 +1936,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Paradox Chamber 3",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Paradox|"
     },
@@ -1981,9 +1991,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Gunslinger Chamber 3",
-        "FTAcharacters"
+        "FTAcharacters",
+        "MRpercharacter"
         ],
         "requires": "|The Gunslinger|"
     },
@@ -2036,9 +2046,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Ninja Chamber 3",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Ninja|"
     },
@@ -2091,9 +2101,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Lamey Chamber 3",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|Lamey|"
     },
@@ -2146,9 +2156,9 @@
         "region": "Black Powder Mine",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
         "Cosmonaut Chamber 3",
-        "cutcontent"
+        "cutcontent",
+        "MRpercharacter"
         ],
         "requires": "|The Cosmonaut|"
     },
@@ -2264,7 +2274,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosssinglecheck"
+        "MRsinglecheck"
         ],
         "requires": ""
     },
@@ -2313,8 +2323,8 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
-        "Convict Chamber 4"
+        "Convict Chamber 4",
+        "MRpercharacter"
         ],
         "requires": "|The Convict|"
     },
@@ -2363,7 +2373,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Hunter Chamber 4"
         ],
         "requires": "|The Hunter|"
@@ -2413,7 +2423,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Marine Chamber 4"
         ],
         "requires": "|The Marine|"
@@ -2463,7 +2473,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Pilot Chamber 4"
         ],
         "requires": "|The Pilot|"
@@ -2517,7 +2527,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Cultist Chamber 4",
         "cultist"
         ],
@@ -2572,7 +2582,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Bullet Chamber 4",
         "secretcharacters"
         ],
@@ -2627,7 +2637,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Robot Chamber 4",
         "secretcharacters"
         ],
@@ -2682,7 +2692,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Paradox Chamber 4",
         "FTAcharacters"
         ],
@@ -2737,7 +2747,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Gunslinger Chamber 4",
         "FTAcharacters"
         ],
@@ -2792,7 +2802,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Ninja Chamber 4",
         "cutcontent"
         ],
@@ -2847,7 +2857,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Lamey Chamber 4",
         "cutcontent"
         ],
@@ -2902,7 +2912,7 @@
         "region": "Hollow",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Cosmonaut Chamber 4",
         "cutcontent"
         ],
@@ -2968,7 +2978,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosssinglecheck"
+        "MRsinglecheck"
         ],
         "requires": ""
     },
@@ -3017,7 +3027,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Convict Chamber 5"
         ],
         "requires": "|The Convict|"
@@ -3067,7 +3077,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Hunter Chamber 5"
         ],
         "requires": "|The Hunter|"
@@ -3117,7 +3127,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Marine Chamber 5"
         ],
         "requires": "|The Marine|"
@@ -3167,7 +3177,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Pilot Chamber 5"
         ],
         "requires": "|The Pilot|"
@@ -3221,7 +3231,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Cultist Chamber 5",
         "cultist"
         ],
@@ -3276,7 +3286,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Bullet Chamber 5",
         "secretcharacters"
         ],
@@ -3331,7 +3341,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Robot Chamber 5",
         "secretcharacters"
         ],
@@ -3386,7 +3396,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Paradox Chamber 5",
         "FTAcharacters"
         ],
@@ -3441,7 +3451,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Gunslinger Chamber 5",
         "FTAcharacters"
         ],
@@ -3496,7 +3506,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Ninja Chamber 5",
         "cutcontent"
         ],
@@ -3551,7 +3561,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Lamey Chamber 5",
         "cutcontent"
         ],
@@ -3606,7 +3616,7 @@
         "region": "Forge",
         "category": [
         "Masterrounds",
-        "bosspercharacter",
+        "MRpercharacter",
         "Cosmonaut Chamber 5",
         "cutcontent"
         ],

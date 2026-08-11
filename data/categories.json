@@ -1,8 +1,4 @@
 {
-    "secretchambers": {
-       "yaml_option": ["enable_secret_chambers"]
-    },
-
     "cutcontent": {
         "yaml_option": ["enable_cut_content"],
         "hidden":true
@@ -38,6 +34,14 @@
     },
     "bosssinglecheck": {
         "yaml_option": ["!enable_bosschecks_per_character"],
+        "hidden": true
+    },
+    "MRpercharacter": {
+        "yaml_option": ["enable_MRchecks_per_character"],
+        "hidden": true
+    },
+    "MRsinglecheck": {
+        "yaml_option": ["!enable_MRchecks_per_character"],
         "hidden": true
     },
     "punchout": {
