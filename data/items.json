@@ -2,25 +2,25 @@
     {
         "count":"1",
         "name": "Prime Primer",
-        "category": ["The Bullet"],
+        "category": ["Bullet that can kill the past"],
         "progression": true
     },
    {
         "count":"1",
         "name": "Arcane Gunpowder",
-        "category": ["The Bullet"],
+        "category": ["Bullet that can kill the past"],
         "progression": true
     },
     {
         "count":"1",
         "name": "Planar Lead",
-        "category": ["The Bullet"],
+        "category": ["Bullet that can kill the past"],
         "progression": true
     },
     {
         "count":"1",
         "name": "Obsidian Shell Casing",
-        "category": ["The Bullet"],
+        "category": ["Bullet that can kill the past"],
         "progression": true
     },
     {
@@ -175,13 +175,13 @@
     },
     {
         "count":"5",
-        "name": "Progressive Starting Amrmor",
+        "name": "Progressive Starting Armor",
         "category": ["Starting Items"],
         "useful": true
     },
     {
         "count":"5",
-        "name": "Coupon for 1 ser Junkan",
+        "name": "Coupon for 1 Junkan",
         "category": ["Consumable"],
         "useful": true
     },

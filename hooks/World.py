@@ -31,7 +31,6 @@ import logging
 ########################################################################################
 
 
-
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
@@ -42,6 +41,20 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+    Availablepast = 4
+
+    if world.options.enable_secret_characters.value:
+        Availablepast = Availablepast +2
+
+    if world.options.enable_farewell_to_arms_characters.value:
+        Availablepast = Availablepast +1
+
+    if world.options.enable_cut_content.value:
+        Availablepast = Availablepast+1
+
+    if world.options.Pasts_Killed_Goal_Amount.value > Availablepast:
+        world.options.Pasts_Killed_Goal_Amount.value = Availablepast
+     
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
@@ -71,6 +84,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     return item_config
+
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:

@@ -33,15 +33,8 @@
     },
 
     "user": {
-        "Pasts_Killed_Goal_Amount":{
-            "type": "Range",
-            "description": [
-                "Select how many pasts must be killed to complete the game. (ensure you have enough characters with pasts to complete the game)"
-            ],
-            "range_start": 1,
-            "default": 4,
-            "range_end": 8
-        },
+
+
 
         "enable_secret_chambers": {
             "description": [
@@ -57,37 +50,6 @@
             ],
             "type":"Toggle",
             "default": true
-        },
-
-        "enable_secret_characters": {
-            "description": [
-                "Enables the Bullet and the Robot, adds 2 pasts"
-            ],
-            "type":"Toggle",
-            "default": true
-        },
-
-        "enable_farewell_to_arms_characters": {
-            "description": [
-                "Enables the Paradox and the Gunslinger, adds 1 past"
-            ],
-            "type":"Toggle",
-            "default": true
-        },
-        "enable_cultist": {
-            "description": [
-                "Enables the Cultist"
-            ],
-            "type":"Toggle",
-            "default": true
-        },
-
-        "enable_cut_content": {
-            "description": [
-                "Enables cut gungeoneers (The Ninja, Lamey, and the Cosmonaut), adds 1 past"
-            ],
-            "type":"Toggle",
-            "default": false
         },
 
         "enable_master_rounds": {

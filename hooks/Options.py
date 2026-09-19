@@ -32,9 +32,43 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class Pasts_Killed_Goal_Amount(Range):
+    """Select how many pasts must be killed to complete the game. (ensure you have enough characters with pasts to complete the game)"""
+    display_name = "Number of characters to kill the past with before victory"
+    range_start = 1
+    range_end = 8
+    default = 4
+
+class enable_secret_characters(Toggle):
+    """Enables the Bullet and the Robot, adds 2 pasts"""
+    display_name = "Enable secret characters"
+    Default = False
+
+class enable_farewell_to_arms_characters(Toggle):
+    """Enables the Paradox and the Gunslinger, adds 1 past"""
+    display_name = "Enable farewell to arms characters"
+    Default = False
+
+class enable_cultist(Toggle):
+    """Enables the Cultist, does not add a past"""
+    display_name = "Enable farewell the cultist"
+    Default = False
+
+class enable_cut_content(Toggle):
+    """Enables cut gungeoneers (The Ninja, Lamey, and the Cosmonaut), adds 1 past"""
+    display_name = "Enable cut content"
+    Default = False
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["Pasts_Killed_Goal_Amount"] = Pasts_Killed_Goal_Amount
+    options["enable_secret_characters"] = enable_secret_characters
+    options["enable_farewell_to_arms_characters"] = enable_farewell_to_arms_characters
+    options["enable_cultist"] = enable_cultist
+    options["enable_cut_content"] = enable_cut_content
     return options
+
+
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: Type[PerGameCommonOptions]):
